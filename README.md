@@ -6,6 +6,8 @@
 6. performace issue : network calls
 7. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
 8. always usea  strong coding/planning model
+9. follow DRY principle
+10. focus on mobile responsiveness at the last
 
 
 ## 🚀 Project Setup Command
@@ -41,15 +43,11 @@ These resources are essential for configuring and utilizing the Cursor editor ef
 
 ## 🏗️ Post-Functionality Development
 
-Once core functionality is complete, use the following plans for quality assurance, planning, and design implementation.
+Once core functionality is complete, use the following plans for design implementation.
 
-### **Option 1: Planning and Prioritization**
+### **Option 1: Claude skills**
 
-1.  **Evaluate using UX Rubric:** Review the project against the rubric linked below.
-      - **Rubric Video:** [https://youtu.be/5Lu7k2SShNw?t=748](https://youtu.be/5Lu7k2SShNw?t=748)
-      - **UX Rubric Plan:** [https://gist.github.com/kleneway/10b3848d60553e794ada863d3393544e](https://gist.github.com/kleneway/10b3848d60553e794ada863d3393544e)
-2.  **Create a Plan:** Develop a plan using the UX rubric guidelines.
-3.  **Cherry-Pick:** Select and prioritize the **most important items** from the plan to build.
+1.  https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md
 
 ### **Option 2: Design Override (Cosmetic Changes)**
 
