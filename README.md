@@ -55,7 +55,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
 > 'Analyze my existing project, then override all CSS and visual styling to match the uploaded **design.md** specifications while preserving all functionality and HTML structure'
 
-  - **Design Guidelines Reference:** [design.md](https://github.com/ankitpandey2708/gh-release/blob/main/docs/design.md)
+  - **Design Guidelines Reference:** [design.md](https://github.com/ankitpandey2708/ai_workflow/blob/main/design.md)
 
 -----
 
