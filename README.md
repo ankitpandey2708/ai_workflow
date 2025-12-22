@@ -41,9 +41,7 @@ These resources are essential for configuring and utilizing the Cursor editor ef
 
 -----
 
-## 🏗️ Post-Functionality Development
-
-Once core functionality is complete, use the following plans for design implementation.
+## Design implementation.
 
 ### **Option 1: Claude skills**
 
@@ -58,6 +56,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
   - **Design Guidelines Reference:** [design.md](https://github.com/ankitpandey2708/ai_workflow/blob/main/design.md)
 
 -----
+
 
 ## 🧹 Code Cleanup and Security Audits
 
@@ -75,4 +74,5 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
     npm run knip
     ```
 2.  **Check for Code Duplication.**
-3.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
+3.  **without breaking anything suggest a way to optimizse number of api calls**
+4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
