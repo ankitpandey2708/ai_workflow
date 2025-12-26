@@ -1,4 +1,6 @@
 ## Agent.md
+While building the app, focus on the following:
+
 1. no accessibility features
 2. no testing tasks
 3. no deployment tasks. focus only on local development
