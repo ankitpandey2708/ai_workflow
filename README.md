@@ -1,13 +1,11 @@
+## Agent.md
 1. no accessibility features
 2. no testing tasks
 3. no deployment tasks. focus only on local development
 4. focus only on design and functionlaity tasks
 5. no bloat in the code
-6. without breaking anything suggest a way to optimizse number of api calls
-7. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
-8. always usea  strong coding/planning model
-9. follow DRY principle
-10. focus on mobile responsiveness at the last
+6. follow DRY principle
+7. focus on mobile responsiveness at the last
 
 
 ## 🚀 Project Setup Command
@@ -18,11 +16,7 @@ Use the following command to initialize the Next.js project with all required co
 npx create-next-app@latest my-app --yes
 ```
 
-## 📝 Cursor AI Resources
-
-These resources are essential for configuring and utilizing the Cursor editor effectively for strong reasoning and task management.
-
-### **Planning & Task Management**
+## Planning & Task Management
 
   - **Prompts:**
     [https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70](https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70)
@@ -36,9 +30,6 @@ These resources are essential for configuring and utilizing the Cursor editor ef
     ```bash
     Go through each story and Find the next story to work on. Review each unfinished story and correct issues if any. Then proceed to create or edit files to complete each story.     After you complete all the tasks in the story, update the file to check off any completed story.
     ```
-
-    
-
 -----
 
 ## Design implementation.
@@ -76,3 +67,9 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 2.  **Check for Code Duplication.**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
+
+-----
+
+## Notes to self
+1. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
+2. always use a strong coding/planning model
