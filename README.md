@@ -72,6 +72,12 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
 -----
 
+## SEO
+
+1. make the project seo friendly
+
+-----
+
 ## Notes to self
 1. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
 2. always use a strong coding/planning model
