@@ -7,7 +7,6 @@ While building the app, focus on the following:
 4. focus only on design and functionlaity tasks
 5. no bloat in the code
 6. follow DRY principle
-7. focus on mobile responsiveness at the last
 
 
 ## 🚀 Project Setup Command
