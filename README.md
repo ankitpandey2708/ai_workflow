@@ -37,7 +37,7 @@ npx create-next-app@latest my-app --yes
 
 ### **Option 1: Claude skills**
 
-1.  https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md
+1.  https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md or https://github.com/Dammyjay93/claude-design-skill/blob/main/skill/skill.md
 
 ### **Option 2: Design Override (Cosmetic Changes)**
 
