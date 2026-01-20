@@ -5,8 +5,6 @@ While building the app, focus on the following:
 2. no testing tasks
 3. no deployment tasks. focus only on local development
 4. focus only on design and functionlaity tasks
-5. no bloat in the code
-6. follow DRY principle
 
 
 ## 🚀 Project Setup Command
@@ -65,7 +63,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
     ```bash
     npm init @knip/config && npm run knip
     ```
-2.  **Check for Code Duplication.**
+2.  **Check for Code Duplication ie follow DRY principle**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 
