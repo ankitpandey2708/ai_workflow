@@ -63,7 +63,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
     ```bash
     npm init @knip/config && npm run knip
     ```
-2.  **Check for Code Duplication ie follow DRY principle**
+2.  **Check for Code Duplication ie follow DRY principle and no bloat in the code**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 
