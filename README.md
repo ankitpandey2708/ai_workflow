@@ -71,8 +71,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
 ## SEO
 
-1. make the project seo friendly
-
+1. audit the project from a SEO pov and make the project seo friendly
 -----
 
 ## Notes to self
