@@ -63,7 +63,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
 1.  **Run Knip:** Execute the following command to find unused files, dependencies, and exports but ask LLM to investigate further if these are real issues or not
     ```bash
-    npm run knip
+    npm init @knip/config && npm run knip
     ```
 2.  **Check for Code Duplication.**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
