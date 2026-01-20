@@ -57,7 +57,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 ### **1. Security & Data Audit**
 
   - **Browser Data Storage:** Check for any data being stored in the browser (e.g., Local Storage, Session Storage). **Confirm deletion with me first.**
-  - **Data Exposure:** Check for any sensitive data being exposed in the browser (e.g., API keys, secrets).
+  - **Data Exposure:** Check for any sensitive data being exposed in the browser (e.g., API keys, secrets). move the API calls server‑side so keys stay private
 
 ### **2. Code Quality & Optimization**
 
