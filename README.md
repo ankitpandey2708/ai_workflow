@@ -45,6 +45,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 
   - **Design Guidelines Reference:** [design.md](https://github.com/ankitpandey2708/ai_workflow/blob/main/design.md)
 
+give me a ascii tree of the visual heirachry of summary card assuming dropdown is monthly . now from 1st principles pov review the above tree and point out issues in visual layout
 -----
 
 
@@ -66,7 +67,7 @@ Alternatively, use this prompt to enforce a specific design aesthetic:
 2.  **Check for Code Duplication ie follow DRY principle and no bloat in the code**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
-
+5.  **audit all the components files and check for unnecessary re-renders**
 -----
 
 ## SEO
