@@ -74,7 +74,6 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 ## SEO
 
 1. audit the project from a SEO pov and make the project seo friendly
-2. **https://github.com/squirrelscan/squirrelscan**
 -----
 
 ## Notes to self
