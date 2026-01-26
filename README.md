@@ -67,7 +67,7 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 2.  **Check for Code Duplication ie follow DRY principle and no bloat in the code**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
-5.  **audit all the components files and check for unnecessary re-renders**
+5.  **audit all the tsx files and check for unnecessary re-renders**
 6.  **https://github.com/squirrelscan/squirrelscan**
 -----
 
