@@ -68,12 +68,13 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 3.  **without breaking anything suggest a way to optimizse number of api calls**
 4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 5.  **audit all the tsx files and check for unnecessary re-renders**
-6.  **https://github.com/squirrelscan/squirrelscan**
+6.  **Run a MECE performance audit across the entire codebase (all file types). Classify every finding into exactly one bucket:  1. List scalability, 2) Compute offload, 3) Input latency, 4) Network/AI latency control, 5) Paint/animation cost, 6) Data access & caching. Exclude already‑implemented optimizations, avoid overlap, and cite file:line for each finding**
 -----
 
 ## SEO
 
 1. audit the project from a SEO pov and make the project seo friendly
+2. **https://github.com/squirrelscan/squirrelscan**
 -----
 
 ## Notes to self
