@@ -64,9 +64,9 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
     ```bash
     npm init @knip/config && npm run knip
     ```
-2.  **go through all the tsx files and Check for Code Duplication ie follow DRY principle and no bloat in the code**
+2.  **go through all relevant file types and Check for Code Duplication ie follow DRY principle and no bloat in the code**
 3.  **without breaking anything suggest a way to optimizse number of api calls**
-4.  **Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
+4.  **go through all relevant file types and Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 5.  **audit all the tsx files and check for unnecessary re-renders. rank on order of impact**
 6.  **Run a MECE performance audit across the entire codebase (all relevant file types). Classify every finding into exactly one bucket:  1. scalability, 2) Compute offload, 3) Input latency, 4) Network/AI latency control, 5) Paint/animation cost, 6) Data access & caching. Exclude already‑implemented optimizations, avoid overlap, and cite file:line for each finding. **
 7.  **list pros and cons wrt above. bucket into high risk high impact and low risk high impact**
