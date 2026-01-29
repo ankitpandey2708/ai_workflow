@@ -19,12 +19,7 @@ npx create-next-app@latest my-app --yes
 
   - **Prompts:**
     [https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70](https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70)
-    ```bash
-    do the following :
-    1. response should be high quality ,no fluff,   no corporate jargon .practical,actionable and not theoretical
-    2. Flesch reading score above 80
-    3. make sure MECE is followed.
-    ```
+   
   - **Updating `tasks.md`:**
     ```bash
     Go through each story and Find the next story to work on. Review each unfinished story and correct issues if any. Then proceed to create or edit files to complete each story.     After you complete all the tasks in the story, update the file to check off any completed story.
