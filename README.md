@@ -70,6 +70,13 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 ## SEO
 
 1. audit the project from a SEO pov and make the project seo friendly
+
+
+## Launch video
+
+1. setup https://www.remotion.dev/docs/ai/skills
+2. "now create a launch video for this project using remotion. go through this project and familiarize urself. use same
+  visual tone and project aesthetics for the video as well. dont forget to use frontend-skill"
 -----
 
 ## Notes to self
