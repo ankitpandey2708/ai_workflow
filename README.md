@@ -12,7 +12,7 @@ While building the app, focus on the following:
 Use the following command to initialize the Next.js project with all required configurations:
 
 ```bash
-npx create-next-app@latest my-app --yes
+npx create-next-app@latest . --yes --skip-install
 ```
 
 ## Planning & Task Management
