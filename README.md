@@ -9,10 +9,15 @@ While building the app, focus on the following:
 
 ## 🚀 Project Setup Command
 
-Use the following command to initialize the Next.js project with all required configurations:
+create a repo on github. clone it locally . cd into it and then Use the following command to initialize the Next.js project with all required configurations:
 
 ```bash
 npx create-next-app@latest . --yes --skip-install
+```
+
+now do :
+```bash
+npm i
 ```
 
 ## Planning & Task Management
