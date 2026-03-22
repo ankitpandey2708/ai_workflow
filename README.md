@@ -69,6 +69,7 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 4.  **Always compress your System Prompt, Make surre you follow optimal settings wrt https://ai.google.dev/api/generate-content#endpoint**
 6.  **go through all relevant file types and Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 7.  **UI perf fix : https://pastebin.com/wRxrQ2Zr**
+8.  add "noUnusedLocals": true, "noUnusedParameters": true, in "compilerOptions" inside tsconfig.json
 -----
 
 ## SEO
