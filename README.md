@@ -5,7 +5,7 @@ While building the app, focus on the following:
 2. no testing tasks
 3. no deployment tasks. focus only on local development
 4. focus only on design and functionlaity tasks
-5. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution.
+5. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution. can try https://opencode.ai/go as well
 
 ## 🚀 Project Setup Command
 
