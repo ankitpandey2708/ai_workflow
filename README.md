@@ -5,7 +5,7 @@ While building the app, focus on the following:
 2. no testing tasks
 3. no deployment tasks. focus only on local development
 4. focus only on design and functionlaity tasks
-
+5. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution.
 
 ## 🚀 Project Setup Command
 
@@ -81,6 +81,12 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 1. setup https://www.remotion.dev/docs/ai/skills
 2. "now create a launch video for this project using remotion. go through this project and familiarize urself. use same
   visual tone and project aesthetics for the video as well. dont forget to use frontend-skill"
+
+## Focus on
+1. Enhanced empty state
+2. Retention Features incl PNs
+3. Tooltips for feature discovery
+4. Gamification
 -----
 
 ## Notes to self
