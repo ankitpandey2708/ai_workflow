@@ -5,7 +5,9 @@ While building the app, focus on the following:
 2. no testing tasks
 3. no deployment tasks. focus only on local development
 4. focus only on design and functionlaity tasks
-5. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution. can try https://opencode.ai/go as well
+5. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution. 
+6. Free AI Providers : freebuff/cline/https://opencode.ai/go
+7. for cloning any website use : https://github.com/JCodesMore/ai-website-cloner-template
 
 ## 🚀 Project Setup Command
 
@@ -55,7 +57,6 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 
 ### **1. Security & Data Audit**
 
-  - **Browser Data Storage:** Check for any data being stored in the browser (e.g., Local Storage, Session Storage). **Confirm deletion with me first.**
   - **Data Exposure:** Check for any sensitive data being exposed in the browser (e.g., API keys, secrets). move the API calls server‑side so keys stay private
 
 ### **2. Code Quality & Optimization**
@@ -70,6 +71,7 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 6.  **go through all relevant file types and Check for Code Refactoring:** Identify and implement improvements for code structure, readability, and maintainability.
 7.  **UI perf fix : https://pastebin.com/wRxrQ2Zr**
 8.  add "noUnusedLocals": true, "noUnusedParameters": true, in "compilerOptions" inside tsconfig.json
+9.  Lighthouse Report Analyse : ```node -e "const r=require('./lighthouse.json'); const scores=Object.fromEntries(Object.entries(r.categories).map(([k,v])=>[k,Math.round(v.score*100)])); const failed=Object.values(r.audits).filter(a=>a.score!==null&&a.score<1).map(a=>({id:a.id,score:a.score,display:a.displayValue})).sort((a,b)=>a.score-b.score); const lcp=r.audits['lcp-breakdown-insight']?.details?.items?.[1]; const errors=r.audits['errors-in-console']?.details?.items?.map(i=>i.description); const vitals={lcp:r.audits['largest-contentful-paint']?.displayValue,tbt:r.audits['total-blocking-time']?.displayValue,cls:r.audits['cumulative-layout-shift']?.displayValue,fcp:r.audits['first-contentful-paint']?.displayValue,si:r.audits['speed-index']?.displayValue}; const bootup=r.audits['bootup-time']?.details?.items?.sort((a,b)=>b.total-a.total).slice(0,8).map(i=>({url:i.url.split('/').pop(),total:Math.round(i.total),scripting:Math.round(i.scripting)})); const thread=r.audits['mainthread-work-breakdown']?.details?.items?.map(i=>({group:i.groupLabel,ms:Math.round(i.duration)})).sort((a,b)=>b.ms-a.ms); console.log(JSON.stringify({scores,vitals,failed,lcp,bootup,thread,errors},null,2));"```
 -----
 
 ## SEO
