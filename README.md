@@ -24,9 +24,6 @@ npm i
 
 ## Planning & Task Management
 
-  - **Prompts:**
-    [https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70](https://chatgpt.com/share/67c5ee78-0b94-800d-b467-ceecdbf6ce70)
-   
   - https://github.com/snarktank/ai-dev-tasks
 -----
 
