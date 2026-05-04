@@ -78,14 +78,3 @@ give me a ascii tree of the visual heirachry of summary card assuming dropdown i
 1. setup https://www.remotion.dev/docs/ai/skills
 2. "now create a launch video for this project using remotion. go through this project and familiarize urself. use same
   visual tone and project aesthetics for the video as well. dont forget to use frontend-skill"
-
-## Focus on
-1. Enhanced empty state
-2. Retention Features incl PNs
-3. Tooltips for feature discovery
-4. Gamification
------
-
-## Notes to self
-1. improve prompts for creating prd/brd/tasklist. prrof read each after genration. make sure thery are legible and mece. make sure the task make sense when moving from one task to other
-2. always use a strong coding/planning model
