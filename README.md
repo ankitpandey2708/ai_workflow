@@ -3,11 +3,7 @@
 ```bash
 npx create-next-app@latest . --yes --skip-install
 ```
-
-now do :
-```bash
-npm i
-```
+-----
 
 ## While building the app, focus on the following:
 
