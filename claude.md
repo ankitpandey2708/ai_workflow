@@ -63,5 +63,5 @@ npx create-next-app@latest . --yes --skip-install
 -----
 ## Appendix
 1. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution. 
-2. Free AI Providers : freebuff/cline/https://opencode.ai/go
+2. Free AI Providers : freebuff/cline/https://opencode.ai/go/https://www.cherry-ai.com/
 3. for cloning any website use : https://github.com/JCodesMore/ai-website-cloner-template
