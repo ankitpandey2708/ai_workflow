@@ -62,10 +62,11 @@ npx create-next-app@latest . --yes --skip-install
 
 -----
 ## Appendix
-1. use powerful models like opus 4.6 for ideation/big picture/frontend and smaller models for execution. 
+1. use powerful models for ideation/big picture/frontend and smaller models for execution. 
 2. Free AI Providers
    a) freebuff
    b) cline
    c) https://opencode.ai/go
    d) https://www.cherry-ai.com/
 4. for cloning any website use : https://github.com/JCodesMore/ai-website-cloner-template
+5. Onboarding :  "how to solve for onboarding ie a user who lands on the page wrt mobile view, how to tell them what the sight does in a non intrusive way?"
