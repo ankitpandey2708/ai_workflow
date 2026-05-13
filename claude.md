@@ -70,3 +70,4 @@ npx create-next-app@latest . --yes --skip-install
    d) https://www.cherry-ai.com/
 4. for cloning any website use : https://github.com/JCodesMore/ai-website-cloner-template
 5. Onboarding :  "how to solve for onboarding ie a user who lands on the page wrt mobile view, how to tell them what the sight does in a non intrusive way?"
+6. claude specific tools : npx ccusage@latest , ccswitch
