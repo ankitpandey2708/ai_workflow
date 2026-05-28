@@ -40,7 +40,7 @@ npx create-next-app@latest . --yes --skip-install
     npm init @knip/config && npm run knip
     npx tsc --noEmit (add "noUnusedLocals": true, "noUnusedParameters": true, in "compilerOptions" inside tsconfig.json)
     ```
-2.   Install the React Compiler in this Next.js 16 + React 19 project:  npm install babel-plugin-react-compiler --save-dev , add  reactCompiler: true  to  next.config.ts , and add  eslint-plugin-react-compiler  to  eslint.config.mjs  with the plugin key  'react-compiler'  and rule  "react-compiler/react-compiler": "error" 
+2.   Install the React Compiler in this Next.js 16 + React 19 project:  npm install babel-plugin-react-compiler --save-dev
 3.  **go through all relevant file types and Check for Code Duplication ie follow DRY principle and no bloat in the code**
 4.  **without breaking anything suggest a way to optimizse number of api calls**
 5.  **Always compress if used any System Prompt, Make surre you follow optimal settings wrt https://ai.google.dev/api/generate-content#endpoint**
