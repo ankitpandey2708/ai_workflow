@@ -59,8 +59,8 @@ npx create-next-app@latest . --yes --skip-install
 
 ## Launch video
 
-1. setup https://www.remotion.dev/docs/ai/skills
-2. "now create a launch video for this project using remotion. go through this project and familiarize urself. use same
+1. setup https://www.remotion.dev/docs/ai/skills or hyperframes
+2. "now create a launch video for this project . go through this project and familiarize urself. use same
   visual tone and project aesthetics for the video as well. dont forget to use frontend-skill"
 
 -----
